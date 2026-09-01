@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C0202E,35:1E3A8A,70:FF6B00,100:60A5FA&height=210&section=header&text=Hi%20there,%20I'm%20%5BOhm%Soman%5D&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web-slinging%20through%20code%2C%20powering%20up%20with%20every%20commit&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C0202E,35:1E3A8A,70:FF6B00,100:60A5FA&height=210&section=header&text=Hi%20there,%20I'm%20%5BOhm%5D&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web-slinging%20through%20code%2C%20powering%20up%20with%20every%20commit&descAlignY=58&descSize=16" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C0202E&center=true&vCenter=true&width=650&lines=With+great+code+comes+great+responsibility;Power+Level%3A+Rising...;First-year+CS+Student;Learning+DSA+in+C%2B%2B+%26+Python;Friendly+Neighborhood+Developer+%F0%9F%95%B8%EF%B8%8F;Ultra+Instinct%3A+Debug+Mode+%F0%9F%94%A5" alt="Typing SVG" />
