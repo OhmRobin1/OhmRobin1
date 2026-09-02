@@ -39,9 +39,9 @@
 
 | Skill | Power Level | Reading |
 |---|---|---|
-| `JavaScript` | ████████████████░░░░ 80% | 🟢 It's over 8000! |
-| `Python` | ██████████████░░░░░░ 70% | 🟢 Rising steadily |
-| `React` | ███████████████░░░░░ 75% | 🟢 Battle-ready |
+| `JavaScript` | ██████████████░░░░░░ 70% | 🟢 Rising steadily |
+| `Python` |████████████████░░░░  80% | 🟢 It's over 8000! |
+| `React` | █████░░░░░░░░░░░░░ 25% | 🟢 Progressing |
 | `Data Structures & Algorithms` | ██████████░░░░░░░░░░ 50% | 🟡 In training arc |
 | `SQL / Databases` | █████████████░░░░░░░ 65% | 🟢 Stable |
 | `Git & GitHub` | █████████████████░░░ 85% | 🟢 Full power |
