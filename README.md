@@ -39,12 +39,12 @@
 
 | Skill | Power Level | Reading |
 |---|---|---|
-| `JavaScript` | ██████████████░░░░░░ 70% | 🟢 Rising steadily |
-| `Python` |████████████████░░░░  80% | 🟢 It's over 8000! |
-| `React` | █████░░░░░░░░░░░░░ 25% | 🟢 Progressing |
-| `Data Structures & Algorithms` | ██████████░░░░░░░░░░ 50% | 🟡 In training arc |
-| `SQL / Databases` | █████████████░░░░░░░ 65% | 🟢 Stable |
-| `Git & GitHub` | █████████████████░░░ 85% | 🟢 Full power |
+| `JavaScript` | █████████████░░░░░░░ 65% | 🟢 Stable |
+| `Python` | ██████████████████░░ 90% | 🟢 It's over 8000! |
+| `React` | █████░░░░░░░░░░░░░░░ 25% | 🔴 Early training |
+| `Data Structures & Algorithms` | ██████░░░░░░░░░░░░░░ 30% | 🟡 In training arc |
+| `MySQL` | ████████████████░░░░ 80% | 🟢 Battle-ready |
+| `Git & GitHub` | ██████████░░░░░░░░░░ 50% | 🟡 Rising steadily |
 
 *(edit the bars/percentages to match your actual stack — this table is plain markdown, no external service needed)*
 
