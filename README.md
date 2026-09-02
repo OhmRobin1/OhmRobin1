@@ -31,23 +31,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-*(swap these for whatever's actually in your stack — full badge list at [shields.io](https://shields.io) and [simple-icons](https://simpleicons.org))*
 
-</div>
-
-<br/>
----
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/kamehameha_stickman.svg" width="480"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Full-Stack+Developer;Powering+up+one+commit+at+a+time;Currently+training+in%3A+DSA+%2B+Hackathons;Kamehame...HA!" alt="Typing SVG" />
-
-</div>
-
-<br/>
 
 ## 📊 Scouter Reading — Skill Power Levels
 
@@ -86,23 +70,6 @@
 </div>
 
 <br/>
-
-
-
-## ⚡ Power Level Tracker
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/goku_powerup_face.svg" width="180"/>
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ffd400&style=for-the-badge&label=SCOUTER+READING)
-
-</div>
-
-<br/>
-
 
 
 
