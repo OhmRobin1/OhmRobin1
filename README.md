@@ -32,7 +32,126 @@
 </p>
 
 ---
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/kamehameha_stickman.svg" width="480"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Full-Stack+Developer;Powering+up+one+commit+at+a+time;Currently+training+in%3A+DSA+%2B+Hackathons;Kamehame...HA!" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## 🧬 About Me
+
+- 🔭 Currently working on **[your current project]**
+- 🌱 Currently learning **Data Structures & Algorithms**, gearing up for hackathons
+- 👯 Looking to collaborate on **[what you want to build]**
+- ⚡ Fun fact: my power level is currently unmeasurable by scouter
+
+<br/>
+
+## 📊 Scouter Reading — Skill Power Levels
+
+<div align="center">
+
+| Skill | Power Level | Reading |
+|---|---|---|
+| `JavaScript` | ████████████████░░░░ 80% | 🟢 It's over 8000! |
+| `Python` | ██████████████░░░░░░ 70% | 🟢 Rising steadily |
+| `React` | ███████████████░░░░░ 75% | 🟢 Battle-ready |
+| `Data Structures & Algorithms` | ██████████░░░░░░░░░░ 50% | 🟡 In training arc |
+| `SQL / Databases` | █████████████░░░░░░░ 65% | 🟢 Stable |
+| `Git & GitHub` | █████████████████░░░ 85% | 🟢 Full power |
+
+*(edit the bars/percentages to match your actual stack — this table is plain markdown, no external service needed)*
+
+</div>
+
+<br/>
+
+## 🐉 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FFD400&text_color=E6EDF3&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FFD400&currStreakLabel=00E5FF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00E5FF&line=FFD400&point=FFFFFF" width="90%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophy Room
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+<br/>
+
+## ⚡ Power Level Tracker
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/goku_powerup_face.svg" width="180"/>
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ffd400&style=for-the-badge&label=SCOUTER+READING)
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+*(swap these for whatever's actually in your stack — full badge list at [shields.io](https://shields.io) and [simple-icons](https://simpleicons.org))*
+
+</div>
+
+<br/>
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/spidey_swing_stickman.svg" width="500"/>
+
+<sub>Thanks for stopping by — swing back anytime.</sub>
+
+</div>
 
 
 ### 🏆 Currently Training / Building
